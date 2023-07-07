@@ -1,0 +1,78 @@
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.container {
+  max-width: 90%;
+  margin: 0em auto;
+}
+
+.navbar-span img {
+  height: 100px;
+  width: 100px;
+}
+.navbar-nav {
+  gap: 2em;
+  list-style: none;
+}
+header {
+  border-radius: 2em;
+}
+h1 {
+  font-family: "Lilita One";
+}
+p {
+  font-family: "Bacasime Antique";
+  font-size: 21px;
+  text-align: justify;
+}
+.hero img {
+  height: 500px;
+  width: 500px;
+}
+.hero {
+  padding-top: 4em;
+}
+.services h1 {
+  text-align: center;
+}
+.services img {
+  height: 300px;
+  width: 300px;
+}
+.explore h3 {
+  margin-left: 0;
+}
+.services nav {
+  width: 60%;
+}
+.about p {
+  max-width: 100%;
+}
+.about h1 {
+  text-align: center;
+}
+.about img {
+  height: 200px;
+  width: 200px;
+}
+.servive-card {
+  border: 5px solid var(--color-dark);
+  text-align: center;
+  padding: 1.5em;
+  max-width: 80%;
+  width: 70%;
+}
+.about {
+  margin: 4em;
+}
+.servive-card:hover {
+  border-color: var(--color-primary);
+}
+.servive-card:hover h3 {
+  color: var(--color-primary);
+}
+.about h1 {
+  margin: 1em;
+}

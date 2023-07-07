@@ -1,0 +1,67 @@
+<svg width="100%" height="100%" id="svg" viewBox="0 0 1440 690" xmlns="http://www.w3.org/2000/svg" class="transition duration-300 ease-in-out delay-150"><style>
+          .path-0{
+            animation:pathAnim-0 4s;
+            animation-timing-function: linear;
+            animation-iteration-count: infinite;
+          }
+          @keyframes pathAnim-0{
+            0%{
+              d: path("M 0,700 C 0,700 0,175 0,175 C 214.5,191.5 429,208 669,208 C 909,208 1174.5,191.5 1440,175 C 1440,175 1440,700 1440,700 Z");
+            }
+            25%{
+              d: path("M 0,700 C 0,700 0,175 0,175 C 273,197 546,219 786,219 C 1026,219 1233,197 1440,175 C 1440,175 1440,700 1440,700 Z");
+            }
+            50%{
+              d: path("M 0,700 C 0,700 0,175 0,175 C 195.5,167 391,159 631,159 C 871,159 1155.5,167 1440,175 C 1440,175 1440,700 1440,700 Z");
+            }
+            75%{
+              d: path("M 0,700 C 0,700 0,175 0,175 C 291.5,158.5 583,142 823,142 C 1063,142 1251.5,158.5 1440,175 C 1440,175 1440,700 1440,700 Z");
+            }
+            100%{
+              d: path("M 0,700 C 0,700 0,175 0,175 C 214.5,191.5 429,208 669,208 C 909,208 1174.5,191.5 1440,175 C 1440,175 1440,700 1440,700 Z");
+            }
+          }</style><defs><linearGradient id="gradient" x1="0%" y1="50%" x2="100%" y2="50%"><stop offset="5%" stop-color="#7d5eff"></stop><stop offset="95%" stop-color="#8ED1FC"></stop></linearGradient></defs><path d="M 0,700 C 0,700 0,175 0,175 C 214.5,191.5 429,208 669,208 C 909,208 1174.5,191.5 1440,175 C 1440,175 1440,700 1440,700 Z" stroke="none" stroke-width="0" fill="url(#gradient)" fill-opacity="0.4" class="transition-all duration-300 ease-in-out delay-150 path-0" transform="rotate(-180 720 350)"></path><style>
+          .path-1{
+            animation:pathAnim-1 4s;
+            animation-timing-function: linear;
+            animation-iteration-count: infinite;
+          }
+          @keyframes pathAnim-1{
+            0%{
+              d: path("M 0,700 C 0,700 0,350 0,350 C 178.5,379.5 357,409 597,409 C 837,409 1138.5,379.5 1440,350 C 1440,350 1440,700 1440,700 Z");
+            }
+            25%{
+              d: path("M 0,700 C 0,700 0,350 0,350 C 193.5,328.5 387,307 627,307 C 867,307 1153.5,328.5 1440,350 C 1440,350 1440,700 1440,700 Z");
+            }
+            50%{
+              d: path("M 0,700 C 0,700 0,350 0,350 C 278.5,317 557,284 797,284 C 1037,284 1238.5,317 1440,350 C 1440,350 1440,700 1440,700 Z");
+            }
+            75%{
+              d: path("M 0,700 C 0,700 0,350 0,350 C 301.5,380 603,410 843,410 C 1083,410 1261.5,380 1440,350 C 1440,350 1440,700 1440,700 Z");
+            }
+            100%{
+              d: path("M 0,700 C 0,700 0,350 0,350 C 178.5,379.5 357,409 597,409 C 837,409 1138.5,379.5 1440,350 C 1440,350 1440,700 1440,700 Z");
+            }
+          }</style><defs><linearGradient id="gradient" x1="0%" y1="50%" x2="100%" y2="50%"><stop offset="5%" stop-color="#7d5eff"></stop><stop offset="95%" stop-color="#8ED1FC"></stop></linearGradient></defs><path d="M 0,700 C 0,700 0,350 0,350 C 178.5,379.5 357,409 597,409 C 837,409 1138.5,379.5 1440,350 C 1440,350 1440,700 1440,700 Z" stroke="none" stroke-width="0" fill="url(#gradient)" fill-opacity="0.53" class="transition-all duration-300 ease-in-out delay-150 path-1" transform="rotate(-180 720 350)"></path><style>
+          .path-2{
+            animation:pathAnim-2 4s;
+            animation-timing-function: linear;
+            animation-iteration-count: infinite;
+          }
+          @keyframes pathAnim-2{
+            0%{
+              d: path("M 0,700 C 0,700 0,525 0,525 C 202,498 404,471 644,471 C 884,471 1162,498 1440,525 C 1440,525 1440,700 1440,700 Z");
+            }
+            25%{
+              d: path("M 0,700 C 0,700 0,525 0,525 C 284.5,509 569,493 809,493 C 1049,493 1244.5,509 1440,525 C 1440,525 1440,700 1440,700 Z");
+            }
+            50%{
+              d: path("M 0,700 C 0,700 0,525 0,525 C 265.5,526.5 531,528 771,528 C 1011,528 1225.5,526.5 1440,525 C 1440,525 1440,700 1440,700 Z");
+            }
+            75%{
+              d: path("M 0,700 C 0,700 0,525 0,525 C 282.5,522.5 565,520 805,520 C 1045,520 1242.5,522.5 1440,525 C 1440,525 1440,700 1440,700 Z");
+            }
+            100%{
+              d: path("M 0,700 C 0,700 0,525 0,525 C 202,498 404,471 644,471 C 884,471 1162,498 1440,525 C 1440,525 1440,700 1440,700 Z");
+            }
+          }</style><defs><linearGradient id="gradient" x1="0%" y1="50%" x2="100%" y2="50%"><stop offset="5%" stop-color="#7d5eff"></stop><stop offset="95%" stop-color="#8ED1FC"></stop></linearGradient></defs><path d="M 0,700 C 0,700 0,525 0,525 C 202,498 404,471 644,471 C 884,471 1162,498 1440,525 C 1440,525 1440,700 1440,700 Z" stroke="none" stroke-width="0" fill="url(#gradient)" fill-opacity="1" class="transition-all duration-300 ease-in-out delay-150 path-2" transform="rotate(-180 720 350)"></path></svg>

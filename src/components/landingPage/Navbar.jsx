@@ -11,12 +11,20 @@ const Navbar = () => {
         </span>
         <nav>
           <ul className="flex  navbar-nav">
-            <li>Home</li>
-            <li>Services</li>
-            <li>About</li>
+            <li>
+              <a href="#home">Home</a>
+            </li>
+            <li>
+              <a href="#services">Services</a>
+            </li>
+            <li>
+              <a href="#about">About</a>
+            </li>
           </ul>
         </nav>
-        <button>Sign In</button>
+        <button>
+          <a href="#footer"> Download Application</a>
+        </button>
       </div>
     </header>
   );

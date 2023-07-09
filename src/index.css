@@ -7,6 +7,8 @@
   --color-primary: #7d5eff;
   --color-dark: black;
   --color-light: white;
+  --color-gradiant: linear-gradient(#7e5eff, #7e5eff50);
+
 
   /* color-scheme: light dark; */
   color: var(--color-dark);
@@ -31,7 +33,7 @@ button {
   transition: border-color 0.25s;
 }
 button:hover {
-  border-color: #646cff;
+  border-color:linear-gradient(#5c38ed, #7e5eff50) ;
 }
 button:focus,
 button:focus-visible {
@@ -44,4 +46,11 @@ body {
 }
 * {
   margin: 0 auto;
+  scroll-behavior: smooth;
 }
+a {
+  font-weight: 500;
+  color: black;
+  text-decoration: inherit;
+}
+

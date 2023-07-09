@@ -4,7 +4,7 @@ import destination from "../../assets/destination.png";
 import create from "../../assets/create.png";
 const Services = () => {
   return (
-    <div className="container services">
+    <div id="services" className="container services">
       <h1>Our services</h1>
       <div>
         <div className="flex explore">

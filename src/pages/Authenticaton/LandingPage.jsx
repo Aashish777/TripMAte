@@ -3,6 +3,7 @@ import Navbar from "../../components/landingPage/Navbar";
 import hero from "../../assets/hero.png";
 import Services from "../../components/landingPage/Services";
 import About from "../../components/landingPage/about";
+import Footer from "../../components/landingPage/Footer";
 
 const LandingPage = () => {
   return (
@@ -17,7 +18,7 @@ const LandingPage = () => {
       </div>
       <Services />
       <About />
-      <h1>Footer</h1>
+      <Footer />
     </main>
   );
 };

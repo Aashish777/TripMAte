@@ -6,7 +6,7 @@ import ios from "../../assets/ios.png";
 
 const About = () => {
   return (
-    <div className="container about">
+    <div id="about" className="container about">
       <h1>About</h1>
       <p>
         Our tripmate app connects adventurous travellers from around the world
@@ -22,7 +22,7 @@ const About = () => {
         alone, join us and make new friends on your journey of lifetime.
       </p>
       <hr />
-      <div className="flex about">
+      <div className="flex about ">
         <div>
           <ServiveCard
             img={<img src={meet} />}
